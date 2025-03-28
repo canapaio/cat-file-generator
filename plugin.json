@@ -4,7 +4,7 @@
     "description": "This plugin generates a file with the given content",
     "author_name": "Davide Gavio",
     "author_url": "https://www.linkedin.com/in/davidegavio/",
-    "plugin_url": "https://github.com/davidegavio/file_generator",
+    "plugin_url": "https://github.com/davidegavio/cat-file-generator",
     "tags": "cat, file",
     "thumb": "https://raw.githubusercontent.com/file_generator/cat_file_generator.png"
 }
